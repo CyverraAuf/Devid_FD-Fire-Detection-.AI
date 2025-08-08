@@ -17,4 +17,18 @@ Python Version: 3.9 or later
 
 Dependencies: Listed in requirements.txt
 
+
 This project is licensed under the MIT License – you are free to use, modify, and distribute with attribution.
+
+The FireDetect AI 2.0 system requires a specialized dataset of fire and no-fire images to operate effectively. Due to storage and distribution restrictions, the dataset is not included directly in this repository.
+
+If you need access to the dataset, please contact me via Instagram:
+@cyverra.auf
+
+This dataset includes:
+
+Fire Images: Labeled samples of real flames in various conditions.
+
+No-Fire Images: Control images with similar backgrounds but without flames.
+
+Optimized for ORB-based feature detection and motion/flicker analysis.
