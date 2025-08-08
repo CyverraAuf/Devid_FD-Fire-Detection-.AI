@@ -1,0 +1,6 @@
+opencv-python
+numpy
+playsound
+threading2
+glob2
+matplotlib
